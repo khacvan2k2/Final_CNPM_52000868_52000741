@@ -1,0 +1,12 @@
+insert into bonsai(bonsai_name,bonsai_img,type_id,describe_bonsai,amount,price,status_id) values
+
+
+
+// tải ảnh về đặt tên theo thứ tự  gift1.jpg, gift2.jpg,...  
+/// ghi ở đây
+
+
+('Đặt tên sp','../uploads/GiftPlant/gift1.jpg',1,'Ghi đại mô tả',5,1000,1),            5 là số lượng, 35000 là giá bán,   2 cột ghi số 1 thì cứ để mặc định
+('Đặt tên sp','../uploads/GiftPlant/gift1.jpg',1,'Ghi đại mô tả',5,1000,1),
+('Đặt tên sp','../uploads/GiftPlant/gift1.jpg',1,'Ghi đại mô tả',5,1000,1)
+
